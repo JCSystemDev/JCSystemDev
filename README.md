@@ -1,4 +1,4 @@
-<h3 align="center">¡Hola! Soy JC, Desarrollador Full Stack, Desarrollador de Videojuegos 2D y Técnico en Sonido.</h3>
+<h3 align="center">¡Hola! Soy JC, Desarrollador Full Stack, Desarrollador de Videojuegos y Técnico en Sonido.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
